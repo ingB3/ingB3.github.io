@@ -23,9 +23,14 @@ html, body { background: white; }
 
 html { height: 100%; }
 
+// 구름산스 font
+@import url("https://statics.goorm.io/fonts/GoormSans/v1.0.0/GoormSans.min.css");
 body {
   color: black;
-  font-family: monospace;
+  //font-family: monospace;
+  font-family: "Goorm Sans", sans-serif;
+  font-weight: 500; // Use one of the values 400, 500, 700
+  font-style: normal;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
