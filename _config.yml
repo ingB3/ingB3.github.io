@@ -29,8 +29,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ingBE.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: ingBE.github.io
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ingBE2
+github_username:  ingBE
 
 permalink: /:slug/
 
@@ -41,7 +41,7 @@ timezone: ROK
 
 # Build settings
 # theme: minima
-remote_theme: riggraz/no-style-please
+remote_theme: ingBE/no-style-please
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
