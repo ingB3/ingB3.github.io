@@ -34,6 +34,8 @@ github_username:  jekyll
 
 permalink: /:slug
 
+timezone: ROK
+
 # favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
