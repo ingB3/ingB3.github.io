@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+This is an example page!
+
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
