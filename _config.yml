@@ -32,7 +32,7 @@ domain: ingBE.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
-permalink: /:slug
+permalink: /:slug/
 
 timezone: ROK
 
