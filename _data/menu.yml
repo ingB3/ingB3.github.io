@@ -13,14 +13,14 @@ entries:
       limit: 5
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive
+      show_more_url: archive/
 
   - title: posts by category
     post_list:
       category: example2
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: example2-archive/
 
   - title: rss
     url: feed.xml
@@ -31,7 +31,7 @@ entries:
         entries:
           - title: with subsubitems
           - title: example page
-            url: about
+            url: about/
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
