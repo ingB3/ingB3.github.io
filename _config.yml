@@ -1,7 +1,8 @@
 title: My First github.io page # name of the site
 author: ingBE # name of site's author
 email: chlgyrb111@uos.ac.kr # email of site's author
-url: "" # root address of the site
+domain: ingBE.github.io
+url: https://ingBE.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   My First github.io page
