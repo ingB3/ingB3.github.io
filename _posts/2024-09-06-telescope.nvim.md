@@ -4,13 +4,13 @@ title: "Telescope.nvim"
 category: Development Environment
 ---
 
-```
+```vim
 Plug 'nvim-lua/plenary.nvim'    " For nvim-telescope
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.8' }
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'} " For nvim-telescope
 ```
 
-```
+```vim
 " telescope.nvim
 nnoremap <leader>ff <cmd>Telescope find_files<cr>
 nnoremap <leader>fg <cmd>Telescope live_grep<cr>
