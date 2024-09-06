@@ -24,7 +24,6 @@ html, body { background: white; }
 html { height: 100%; }
 
 @import url("https://statics.goorm.io/fonts/GoormSans/v1.0.0/GoormSans.min.css");   // 구름 산스 web font
-@import url("https://statics.goorm.io/fonts/GoormSansCode/v1.0.1/GoormSansCode.min.css");   // 구름 산스 코드 web font
 body {
   color: black;
   //font-family: monospace;
@@ -82,6 +81,7 @@ table, th, td {
 }
 
 .highlight table pre { margin: 0; }
+@import url("https://statics.goorm.io/fonts/GoormSansCode/v1.0.1/GoormSansCode.min.css");   // 구름 산스 코드 web font
 code {
   font-family: "Goorm Sans Code", sans-serif;
   font-style: normal;
@@ -89,6 +89,7 @@ code {
   // color: white;
   // background: black;
 }
+pre { font-family: "Goorm Sans Code"; }
 
 div.highlighter-rouge code {
   display: block;
