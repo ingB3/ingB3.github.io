@@ -117,6 +117,13 @@ div.highlighter-rouge code {
   padding: 1rem;
 }
 
+code.highlighter-rouge {
+  display: block;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  padding: 1rem;
+}
+
 blockquote {
   font-style: italic;
   border: thin solid black;
