@@ -75,3 +75,6 @@
 .highlight .vi { color: #8be9fd; font-style: italic } /* Name.Variable.Instance */
 .highlight .vm { color: #8be9fd; font-style: italic } /* Name.Variable.Magic */
 .highlight .il { color: #bd93f9 } /* Literal.Number.Integer.Long */
+
+/* Inline Code Block */
+code.highlighter-rouge  { background: #282a36; color: #f8f8f2 }
