@@ -71,7 +71,8 @@ table, th, td {
   padding: 0.4rem;
 }
 
-@import "dracula.css";
+// code block
+@import "dracula.css";  // code block theme
 .highlight table {
   border: 0;
 
@@ -79,13 +80,13 @@ table, th, td {
     border: 0;
     padding: 5px;
 
-    /* line numbers*/
+    // line numbers
     &.gutter,
     &.rouge-gutter {
       padding-right: 1em;
       width: 1em;
-      //color: $base04;
-      //border-right: 1px solid $base04;
+      // color: $base04;
+      // border-right: 1px solid $base04;
       text-align: right;
 
       // 라인이 복사되지 않게 한다.
@@ -104,13 +105,17 @@ table, th, td {
 code {
   font-family: "Goorm Sans Code", sans-serif;
   font-style: normal;
-  font-size: 14px;
   // color: white;
   // background: black;
 }
-pre { font-family: "Goorm Sans Code"; }
 
+// pre { font-family: "Goorm Sans Code"; } // code block
+
+p code.highlighter-rouge { font-size: 14px; }   // inline code font size
+
+// code block
 div.highlighter-rouge code {
+  font-size: 14px;
   display: block;
   overflow-x: auto;
   white-space: pre-wrap;
