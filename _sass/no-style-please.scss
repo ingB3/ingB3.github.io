@@ -111,6 +111,12 @@ code {
 
 // pre { font-family: "Goorm Sans Code"; } // code block
 
+// inline code edge
+code.highlighter-rouge {
+  padding: 1.5px;
+  border-radius: 3px;
+}
+
 p code.highlighter-rouge { font-size: 14px; }   // inline code font size
 
 // code block
