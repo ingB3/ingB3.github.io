@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Telescope.nvim"
-category: Development Environment
+category: Development-Environment
 ---
 
 ```vim
