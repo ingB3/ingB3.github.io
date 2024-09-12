@@ -109,7 +109,11 @@ code {
   // background: black;
 }
 
-// pre { font-family: "Goorm Sans Code"; } // code block
+// code block
+pre {
+  font-family: "Goorm Sans Code", sans-serif;
+  font-style: normal;
+}
 
 // inline code edge
 code.highlighter-rouge {
