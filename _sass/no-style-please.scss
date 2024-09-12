@@ -35,6 +35,10 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+
+  // mobile table font size
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
 }
 
 .post-meta { text-align: right; }
