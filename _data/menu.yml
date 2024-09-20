@@ -29,7 +29,7 @@ entries:
       - title: ONE OK ROCK
         entries:
         post_list:
-          category: oor
+          category: ONE-OK-ROCK
           limit: 3
           show_more: true
           show_more_text: See more posts...
