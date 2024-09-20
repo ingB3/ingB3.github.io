@@ -26,6 +26,15 @@ entries:
           show_more_text: See more posts...
           show_more_url: Development-Environment/
 
+      - title: ONE OK ROCK
+        entries:
+        post_list:
+          category: oor
+          limit: 3
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: ONE-OK-ROCK/
+
       - title: example
         entries:
         post_list:
