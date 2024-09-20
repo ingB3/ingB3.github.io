@@ -35,23 +35,5 @@ entries:
           show_more_text: See more posts...
           show_more_url: ONE-OK-ROCK/
 
-      - title: example
-        entries:
-        post_list:
-          category: example
-          limit: 1
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: example/
-
-      - title: example2
-        entries:
-        post_list:
-          category: example2
-          limit: 1
-          show_more: true
-          show_more_text: See more posts...
-          show_more_url: example2/
-
   - title: rss
     url: feed.xml
