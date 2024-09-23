@@ -12,12 +12,16 @@ tag: tomoya-studio
 
 ---
 # [Delusion:All (ONE OK ROCK) - 연주](https://youtu.be/SPvRI25qf94)
+<div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPvRI25qf94?si=9OFo84XmTchwgl4t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
 # [Delusion:All (ONE OK ROCK) - 해설](https://youtu.be/5TZ4TMM3_RE)
+<div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5TZ4TMM3_RE?si=BmfPA_0X3IUhbKOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
